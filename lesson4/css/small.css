@@ -202,7 +202,7 @@ nav {
 }
 nav ul {
     list-style-type: none;
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(6em, 1fr));
     margin: 0;
     padding: 0;
