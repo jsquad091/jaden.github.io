@@ -216,7 +216,7 @@ nav ul.hide {
 
 }
 .flex {
-	display: none;
+	display: inline-flex;
     flex-direction: row;
     max-width: 160px;
 }
